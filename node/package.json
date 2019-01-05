@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "ipware": "^1.0.0",
+    "mysql": "^2.16.0"
+  }
+}
